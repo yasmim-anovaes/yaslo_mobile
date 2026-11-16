@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680702463686",
+    "project_id": "yasloweb",
+    "storage_bucket": "yasloweb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680702463686:android:0c0c900c0a47660af3d1c7",
+        "android_client_info": {
+          "package_name": "com.example.yaslo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVXgts5AwZ0yps4KCl_O_ugWxZBoQzwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
